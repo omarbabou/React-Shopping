@@ -128,7 +128,7 @@ const Footer = () => {
         <Title>Contact</Title>
         <ContactItem>
           <Room style={{ marginRight: "10px" }} /> 407 st Niboye Kicukiro,
-          Kigali City Tobinchester 98336
+          Kigali City 00250
         </ContactItem>
         <ContactItem>
           <Phone style={{ marginRight: "10px" }} /> +250 78 99 19 478
