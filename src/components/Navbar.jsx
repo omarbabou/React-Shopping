@@ -5,7 +5,7 @@ import { Badge } from "@material-ui/core";
 import { mobile } from "../responsive";
 
 const Container = styled.div`
-  height: 60px;
+  height: 61px;
   ${mobile({ height: "50px" })}
 `;
 
